@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -21,8 +22,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Niharikaaasingh/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
