@@ -14,9 +14,8 @@ class MyQueue:
             self.stack1.append(self.stack2.pop())
 
     def pop(self) -> int:
-        x = self.stack1[-1]
-        self.stack1.pop()
-        return x
+        return self.stack1.pop()
+        
     
     def peek(self) -> int:
         return self.stack1[-1]
